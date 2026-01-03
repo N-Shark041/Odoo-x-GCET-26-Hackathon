@@ -1,0 +1,8 @@
+{
+  "name": "OdooDo",
+  "description": "Every workday, perfectly aligned. A comprehensive HRMS for onboarding, attendance, leave, and payroll.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
