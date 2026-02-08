@@ -1,12 +1,12 @@
-# Dayflow - Human Resource Management System
+# TO DO WORK LIST
 
 > **"Every workday, perfectly aligned."**
 
 ## 📖 Introduction
-Dayflow is a comprehensive Human Resource Management System (HRMS) designed to digitize and streamline core HR operations. The system manages the entire employee lifecycle, including onboarding, profile management, attendance tracking, leave management, and payroll visibility, complete with approval workflows for Admins and HR officers.
+TO DO WORK LIST is a comprehensive Human Resource Management System (HRMS) designed to digitize and streamline core HR operations. The system manages the entire employee lifecycle, including onboarding, profile management, attendance tracking, leave management, and payroll visibility, complete with approval workflows for Admins and HR officers.
 
 ## 🎯 Purpose
-The primary purpose of Dayflow is to provide a unified platform that offers:
+The primary purpose of TO DO WORK LIST is to provide a unified platform that offers:
 * Secure authentication and role-based access.
 * Efficient attendance and time-off management.
 * Streamlined payroll visibility and structure updates.
@@ -55,9 +55,3 @@ The primary purpose of Dayflow is to provide a unified platform that offers:
 ## 🚀 Future Enhancements
 * **Notifications:** Email and system alerts for approvals and updates.
 * **Analytics:** Advanced reporting dashboards for salary slips and attendance trends.
-
-##Created By:-
-25CS019
-25CS026
-25CS041
-25CS044
