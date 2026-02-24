@@ -54,4 +54,4 @@ The primary purpose of TO DO WORK LIST is to provide a unified platform that off
 
 ## 🚀 Future Enhancements
 * **Notifications:** Email and system alerts for approvals and updates.
-* **Analytics:** Advanced reporting dashboards for salary slips and attendance trends.
+* **Analytics:** Advanced reporting dashboards for salary slips and attendance trends..
